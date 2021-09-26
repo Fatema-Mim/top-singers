@@ -1,6 +1,6 @@
 # Top Singer
 
-## Live site :
+## Live site : https://jovial-jang-99e167.netlify.app/
 
 ## Feature:
  1. You can select a singer and make your favorite playlist.
